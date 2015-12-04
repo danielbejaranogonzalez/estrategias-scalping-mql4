@@ -35,6 +35,7 @@ double TAKE_PROFIT[1]={22};
 double VOLUMEN_START[1]={0.01};
 double VOLUMEN[1]={0.01};
 double TICKS_PENDIENTE = 5;
+double PENDIENTE_LIMITE = 2.8;
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
